@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Gourav Praneeth Reddy Bhimavarapu
 
-🎓 Graduate Student in Computer Science @ Arizona State University (expected May 2026)
-💻 Passionate about software development and AI.
-🌟 Focused on building technology that makes a real-world impact
+-> 🎓 Graduate Student in Computer Science @ Arizona State University (expected May 2026)
+-> 💻 Passionate about software development and AI.
+-> 🌟 Focused on building technology that makes a real-world impact
 
 # 🚀 About Me 
 - 💡 Experienced in teaching, mentoring, and leadership – Teaching Assistant, Instructional Aide, and student organization founder.
