@@ -1,0 +1,29 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule: # regenerate the cards every 24 hours
+    - cron: "0 0 * * *"
+  workflow_dispatch: # lets you trigger it manually from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: -7          # Arizona (MST, no daylight saving)
+          EXCLUDE: ""
+          AUTO_PUSH: true
+          THEME: "gruvbox"        # closest built-in match to the portfolio's gold/bronze/charcoal palette
+          ANIMATION: ""
+          DURATION: ""
+          NAME: ""
