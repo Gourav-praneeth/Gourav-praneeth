@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Gourav Bhimavarapu - Software Engineer and Applied AI Engineer</title>
+  <desc id="description">An animated engineering workflow connecting discover, design, build, and measure.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#081426"/>
+      <stop offset="0.55" stop-color="#0C2134"/>
+      <stop offset="1" stop-color="#102B3C"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#FB923C"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#D7F5FF" stroke-opacity=".055"/>
+    </pattern>
+    <filter id="soft-glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="frame">
+      <rect width="1200" height="360" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .name { font: 700 48px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: -.8px; }
+    .role { font: 500 21px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: .25px; }
+    .eyebrow { font: 700 12px ui-monospace, SFMono-Regular, Menlo, monospace; letter-spacing: 2.2px; }
+    .node-label { font: 650 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: 1px; }
+    .node-number { font: 700 10px ui-monospace, SFMono-Regular, Menlo, monospace; }
+    .signal-line { stroke-dasharray: 10 12; animation: flow 2.8s linear infinite; }
+    .status { animation: breathe 2.4s ease-in-out infinite; transform-origin: 963px 70px; }
+    .orb-a { animation: drift-a 8s ease-in-out infinite alternate; }
+    .orb-b { animation: drift-b 10s ease-in-out infinite alternate; }
+    @keyframes flow { to { stroke-dashoffset: -44; } }
+    @keyframes breathe { 50% { opacity: .45; transform: scale(.82); } }
+    @keyframes drift-a { to { transform: translate(34px, 12px); } }
+    @keyframes drift-b { to { transform: translate(-26px, -14px); } }
+    @media (prefers-reduced-motion: reduce) {
+      .signal-line, .status, .orb-a, .orb-b { animation: none; }
+    }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="url(#background)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <circle class="orb-a" cx="1060" cy="42" r="230" fill="url(#glow)"/>
+    <circle class="orb-b" cx="110" cy="345" r="185" fill="url(#glow)" opacity=".62"/>
+
+    <path d="M0 6H1200" stroke="url(#signal)" stroke-width="6"/>
+    <path d="M70 280H1130" stroke="#94A3B8" stroke-opacity=".22" stroke-width="2"/>
+    <path class="signal-line" d="M70 280H1130" stroke="url(#signal)" stroke-width="2.5" fill="none"/>
+
+    <text x="70" y="72" class="eyebrow" fill="#67E8F9">ENGINEER / EDUCATOR / BUILDER</text>
+    <text x="70" y="136" class="name" fill="#F8FAFC">Gourav Bhimavarapu</text>
+    <text x="70" y="177" class="role" fill="#C7D8E7">Software Engineer <tspan fill="#4E718D">"</tspan> Applied AI <tspan fill="#4E718D">"</tspan> Human-centered systems</text>
+    <text x="70" y="213" class="role" fill="#8FA9BC" font-size="17">Turning ambiguous problems into measurable, dependable products.</text>
+
+    <g transform="translate(945 55)">
+      <rect width="185" height="31" rx="15.5" fill="#0F2C35" stroke="#2DD4BF" stroke-opacity=".5"/>
+      <circle class="status" cx="18" cy="15.5" r="5" fill="#2DD4BF" filter="url(#soft-glow)"/>
+      <text x="31" y="20" class="eyebrow" fill="#99F6E4" font-size="9.5" letter-spacing="1">OPEN TO WORK</text>
+    </g>
+
+    <g transform="translate(70 280)">
+      <circle r="18" fill="#0B2538" stroke="#22D3EE" stroke-width="2"/>
+      <text x="0" y="4" class="node-number" fill="#A5F3FC" text-anchor="middle">01</text>
+      <text x="0" y="50" class="node-label" fill="#B8CAD8" text-anchor="middle">DISCOVER</text>
+    </g>
+    <g transform="translate(423 280)">
+      <circle r="18" fill="#0B2538" stroke="#38BDF8" stroke-width="2"/>
+      <text x="0" y="4" class="node-number" fill="#BAE6FD" text-anchor="middle">02</text>
+      <text x="0" y="50" class="node-label" fill="#B8CAD8" text-anchor="middle">DESIGN</text>
+    </g>
+    <g transform="translate(777 280)">
+      <circle r="18" fill="#0B2538" stroke="#60A5FA" stroke-width="2"/>
+      <text x="0" y="4" class="node-number" fill="#BFDBFE" text-anchor="middle">03</text>
+      <text x="0" y="50" class="node-label" fill="#B8CAD8" text-anchor="middle">BUILD</text>
+    </g>
+    <g transform="translate(1130 280)">
+      <circle r="18" fill="#2C211C" stroke="#FB923C" stroke-width="2"/>
+      <text x="0" y="4" class="node-number" fill="#FED7AA" text-anchor="middle">04</text>
+      <text x="0" y="50" class="node-label" fill="#B8CAD8" text-anchor="middle">MEASURE</text>
+    </g>
+
+    <circle r="4.5" fill="#E0F2FE" filter="url(#soft-glow)">
+      <animateMotion dur="4.8s" repeatCount="indefinite" path="M70 280H1130"/>
+    </circle>
+  </g>
+  <rect x="1" y="1" width="1198" height="358" rx="23" fill="none" stroke="#7DD3FC" stroke-opacity=".16" stroke-width="2"/>
+</svg>

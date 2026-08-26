@@ -1,141 +1,107 @@
-<h1 align="center">Hi, I'm Gourav Bhimavarapu 👋</h1>
-
 <p align="center">
-  <b>MS Computer Science @ Arizona State University (Graduated May 2026)</b><br/>
-  AI Engineer · Software Developer · Teaching Assistant to 700+ Students
+  <img src="./assets/profile-hero.svg" alt="Gourav Bhimavarapu — Software Engineer and Applied AI Engineer" width="100%" />
 </p>
 
 <p align="center">
+  <a href="https://gourav-praneeth.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-0E7490?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/gouravbh/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:gouravprb610@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Let's_Talk-EA580C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Gourav" />
   </a>
-  <a href="https://gourav-praneeth.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-d4af37?style=for-the-badge&logo=github&logoColor=0f1117" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Gourav-praneeth&style=for-the-badge&color=d4af37" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LEVEL-22-d4af37?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GUILD-Open_to_Work-a9743c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CLASS-Software_Engineer-1e222e?style=for-the-badge" />
+  <strong>Software Engineer · Applied AI · M.S. Computer Science, Arizona State University (2026)</strong>
 </p>
 
----
+I build reliable software and AI-powered products around real human needs. My work spans retrieval systems, conversational interfaces, accessible technology, and full-stack web applications—from helping seniors navigate government benefits to creating tools for visually impaired students.
 
-## 🎮 Player 1 Select
+Currently seeking full-time **Software Engineer** and **AI Engineer** opportunities.
 
-I'm a CS grad student at ASU building AI-powered systems that solve real problems — from helping seniors navigate government financial aid to making campus maps accessible for visually impaired students. Actively seeking full-time **Software Engineering / AI Engineer** roles.
+## Impact at a glance
 
-- 🤖 Focused on **Agentic AI, LLMs, RAG pipelines, and conversational AI**
-- 🧑‍🏫 Teaching Assistant across **5 roles** — mentored **700+ students** in Python, C++, and mathematics
-- 🏗️ Founder & President of the **ASU Board Games Club** — 0 → 280+ members, $1,800 in secured funding
-- 🎾 Outside of code: pickleball, swimming, anime, and (of course) board games
+<table>
+  <tr>
+    <td align="center"><strong>90%</strong><br/><sub>retrieval precision<br/>in a custom RAG evaluation</sub></td>
+    <td align="center"><strong>700+</strong><br/><sub>students mentored<br/>across five teaching roles</sub></td>
+    <td align="center"><strong>280+</strong><br/><sub>member community<br/>built from the ground up</sub></td>
+    <td align="center"><strong>$1.8K</strong><br/><sub>funding secured<br/>through technical leadership</sub></td>
+  </tr>
+</table>
 
-📄 Full character sheet, skill tree, and quest log → **[gourav-praneeth.github.io](https://gourav-praneeth.github.io)**
+## Selected engineering work
 
----
+### Board Game Rules RAG Engine
+**Python · Retrieval-Augmented Generation · Gradio**
 
-## ⚔️ Ability Scores
+Built a source-grounded retrieval system that answers complex rules questions with citations. Designed structure-aware chunking, an insufficient-context fallback, and a custom evaluation harness that achieved **90% retrieval precision**.
+
+[View repository →](https://github.com/Gourav-praneeth/Board-Game-Rule-Assistant)
+
+### Government Financial Aid Assistant
+**React · Firebase · Vercel**
+
+Developed a conversational web experience during an AI Software Engineer externship at **Beam Group**, helping Canadian seniors understand and navigate CPP applications. Focused on accessible interaction, real-time authentication, and scalable deployment.
+
+### Accessible 3D Campus Map
+**Human-centered design · CAD · Accessibility**
+
+Co-designed a tactile map of ASU's Tempe campus with visually impaired students. Combined raised paths, braille, and spatial landmarks to support more independent campus navigation.
+
+<p align="center">
+  <a href="https://gourav-praneeth.github.io"><strong>Explore more projects and case studies →</strong></a>
+</p>
+
+## Technical toolkit
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1E3A5F?style=flat-square&logo=python&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/Java-1E3A5F?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1E3A5F?style=flat-square&logo=cplusplus&logoColor=5E97D0)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E3A5F?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-1E3A5F?style=flat-square&logo=postgresql&logoColor=white)
 
-**AI / ML**
+**AI engineering**
 
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6F00?style=flat)
-![NLP](https://img.shields.io/badge/NLP-008080?style=flat)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=flat)
+![LLMs](https://img.shields.io/badge/LLMs-0E7490?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0E7490?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-0E7490?style=flat-square)
+![Evaluation](https://img.shields.io/badge/AI_Evaluation-0E7490?style=flat-square)
+![Gradio](https://img.shields.io/badge/Gradio-0E7490?style=flat-square&logo=gradio&logoColor=F9A03C)
 
-**Frameworks & Tools**
+**Product development**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![React](https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-334155?style=flat-square&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-334155?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Git](https://img.shields.io/badge/Git-334155?style=flat-square&logo=git&logoColor=F05032)
+![Vercel](https://img.shields.io/badge/Vercel-334155?style=flat-square&logo=vercel&logoColor=white)
 
----
+## Beyond the code
 
-## 🃏 The Card Hand — Featured Projects
+- **Educator:** Mentored 700+ students in Python, C++, and mathematics across five teaching roles.
+- **Community builder:** Founded and led ASU's Board Games Club from zero to 280+ members.
+- **Continuous learner:** Completed applied AI programs from OpenAI, Hugging Face, Anthropic, and Microsoft.
 
-### 🎲 Board Game Rules RAG Engine
-A retrieval engine that answers board-game rules questions with cited sources — no hallucinations allowed. Structure-aware chunking, an "insufficient context" fallback, and a custom evaluation harness hitting 90% retrieval precision, shipped behind an interactive Gradio chat UI.
+## GitHub activity
 
-**Stack:** Python · RAG · Gradio
-**Repo:** [Board-Game-Rule-Assistant](https://github.com/Gourav-praneeth/Board-Game-Rule-Assistant)
-
----
-
-### 🤖 AI Assistant for Government Financial Aid Navigation
-Built during my AI Software Engineer externship at **Beam Group**. A web-based conversational assistant helping Canadian seniors navigate complex government financial aid (CPP) applications — accessible UI, real-time auth, scalable deployment.
-
-**Stack:** React.js · Firebase · Vercel
-
----
-
-### 🗺️ 3D Tactile Campus Map — ASU Tempe
-Built through ASU's EPICS program: a CAD-modeled 3D tactile map of campus with braille and raised lettering, co-designed with visually impaired students to support independent navigation.
-
-**Impact:** Directly improves campus accessibility for the ASU community.
-
----
-
-### 🌐 Full Portfolio & More Projects
-Explore the complete quest log, skill tree, and project gallery, board-game themed from top to bottom.
-
-👉 **[gourav-praneeth.github.io](https://gourav-praneeth.github.io)**
-
----
-
-## 🏆 Achievements Unlocked
-
-![OpenAI](https://img.shields.io/badge/OpenAI-Applied_AI_Foundations-412991?style=flat&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-AI_Agents_Fundamentals-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![Anthropic](https://img.shields.io/badge/Anthropic-AI_Fluency_%26_Claude_101-D4A27F?style=flat)
-![Microsoft](https://img.shields.io/badge/Microsoft-Gen_AI_Career_Essentials-00A4EF?style=flat&logo=microsoft&logoColor=white)
-
-Full list with verified credential links → **[gourav-praneeth.github.io/#achievements](https://gourav-praneeth.github.io/#achievements)**
-
----
-
-## 📊 GitHub Stats
-
-<!--
-  These cards are generated by a GitHub Action in this repo (.github/workflows/profile-summary-cards.yml)
-  and committed as static SVGs — no live third-party API call at render time, so they can't go down like
-  the old github-readme-stats.vercel.app cards did. First run: trigger the workflow once manually from the
-  Actions tab (it also runs automatically every 24h). Theme: gruvbox (closest built-in match to the site palette).
--->
+<!-- Generated daily by .github/workflows/profile-summary-cards.yml. -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gourav-praneeth/Gourav-praneeth/main/profile-summary-card-output/gruvbox/0-profile-details.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Gourav-praneeth/Gourav-praneeth/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Gourav's GitHub contribution summary" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gourav-praneeth/Gourav-praneeth/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg" width="48%" />
-  <img src="https://raw.githubusercontent.com/Gourav-praneeth/Gourav-praneeth/main/profile-summary-card-output/gruvbox/3-stats.svg" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gourav-praneeth&hide_border=true&background=0f1117&ring=d4af37&fire=a9743c&currStreakLabel=d4af37&sideNums=e7dcc3&sideLabels=e7dcc3&dates=8a8578" width="60%" />
+  <img src="https://raw.githubusercontent.com/Gourav-praneeth/Gourav-praneeth/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Repositories by language" />
+  <img src="https://raw.githubusercontent.com/Gourav-praneeth/Gourav-praneeth/main/profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub statistics" />
 </p>
 
 ---
 
-## 🎲 Downtime
-
-Pickleball 🏓 · Board Games 🎲 · Swimming 🏊 · Anime 📺
-
----
-
-<p align="center"><i>"Build things that teach, automate, and scale."</i></p>
+<p align="center">
+  <strong>Build with purpose. Measure what matters. Keep improving.</strong><br/>
+  <sub>Open to full-time opportunities and thoughtful collaborations.</sub>
+</p>
