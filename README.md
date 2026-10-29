@@ -1,107 +1,72 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" alt="Gourav Bhimavarapu — Software Engineer and Applied AI Engineer" width="100%" />
+  <img src="./assets/profile-hero.svg" alt="Gourav Bhimavarapu — Software Engineer focused on Python and applied AI" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://gourav-praneeth.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-0E7490?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/gouravbh/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:gouravprb610@gmail.com">
-    <img src="https://img.shields.io/badge/Let's_Talk-EA580C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Gourav" />
-  </a>
+  <a href="https://gourav-praneeth.github.io"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/gouravbh/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:gouravprb610@gmail.com"><img src="https://img.shields.io/badge/Email-C2410C?style=flat-square&logo=gmail&logoColor=white" alt="Email Gourav" /></a>
 </p>
 
-<p align="center">
-  <strong>Software Engineer · Applied AI · M.S. Computer Science, Arizona State University (2026)</strong>
-</p>
+## About me
 
-I build reliable software and AI-powered products around real human needs. My work spans retrieval systems, conversational interfaces, accessible technology, and full-stack web applications—from helping seniors navigate government benefits to creating tools for visually impaired students.
+I'm a software engineer and M.S. Computer Science student at Arizona State University. **Python is my strongest language.** I use it to build applied AI systems, automation, and reliable backend workflows. I also build complete web products with TypeScript and React.
 
-Currently seeking full-time **Software Engineer** and **AI Engineer** opportunities.
+I enjoy turning a clear problem into a simple product that people can use. My current work focuses on practical AI, education tools, and thoughtful consumer software.
 
-## Impact at a glance
+I'm seeking full-time **Software Engineer** and **AI Engineer** roles.
 
-<table>
-  <tr>
-    <td align="center"><strong>90%</strong><br/><sub>retrieval precision<br/>in a custom RAG evaluation</sub></td>
-    <td align="center"><strong>700+</strong><br/><sub>students mentored<br/>across five teaching roles</sub></td>
-    <td align="center"><strong>280+</strong><br/><sub>member community<br/>built from the ground up</sub></td>
-    <td align="center"><strong>$1.8K</strong><br/><sub>funding secured<br/>through technical leadership</sub></td>
-  </tr>
-</table>
+## Selected work
 
-## Selected engineering work
+### [Mise](https://github.com/Gourav-praneeth/mise-kitchen)
 
-### Board Game Rules RAG Engine
-**Python · Retrieval-Augmented Generation · Gradio**
+**React · TypeScript · Vite · Local-first product design**
 
-Built a source-grounded retrieval system that answers complex rules questions with citations. Designed structure-aware chunking, an insufficient-context fallback, and a custom evaluation harness that achieved **90% retrieval precision**.
+A kitchen-first food management app that helps people use what they already have. Mise tracks freshness, highlights food that should be used soon, matches recipes to available ingredients, adjusts quantities by serving size, and connects cooking with a live grocery list.
 
-[View repository →](https://github.com/Gourav-praneeth/Board-Game-Rule-Assistant)
+[Live demo →](https://misekitchen-ten.vercel.app/) · [Source code →](https://github.com/Gourav-praneeth/mise-kitchen)
 
-### Government Financial Aid Assistant
-**React · Firebase · Vercel**
+I used **Codex** throughout development to move quickly from product idea to a responsive working MVP.
 
-Developed a conversational web experience during an AI Software Engineer externship at **Beam Group**, helping Canadian seniors understand and navigate CPP applications. Focused on accessible interaction, real-time authentication, and scalable deployment.
+### [GradeLens](https://github.com/Gourav-praneeth/GradeLens)
 
-### Accessible 3D Campus Map
-**Human-centered design · CAD · Accessibility**
+**Next.js · TypeScript · Prisma · SQLite · Docker · Vitest**
 
-Co-designed a tactile map of ASU's Tempe campus with visually impaired students. Combined raised paths, braille, and spatial landmarks to support more independent campus navigation.
+A human-in-the-loop autograder for instructors and teaching assistants. GradeLens creates editable rubrics from official solutions, evaluates PDF or text submissions, explains every deduction, supports Canvas workflows, and exports grades for review.
 
-<p align="center">
-  <a href="https://gourav-praneeth.github.io"><strong>Explore more projects and case studies →</strong></a>
-</p>
+[Source code →](https://github.com/Gourav-praneeth/GradeLens)
 
-## Technical toolkit
+The application supports OpenAI, Anthropic, and Groq models, persistent deployment, instructor accounts, course rosters, and team workflows. I developed it with **Cursor** and **Claude Code**.
 
-**Languages**
+### [AutoResearch](https://github.com/Gourav-praneeth/autoresearch)
 
-![Python](https://img.shields.io/badge/Python-1E3A5F?style=flat-square&logo=python&logoColor=FFD43B)
-![Java](https://img.shields.io/badge/Java-1E3A5F?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-1E3A5F?style=flat-square&logo=cplusplus&logoColor=5E97D0)
-![JavaScript](https://img.shields.io/badge/JavaScript-1E3A5F?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-1E3A5F?style=flat-square&logo=postgresql&logoColor=white)
+**Python · Pydantic · Streamlit · OpenAI API · Multi-agent systems**
 
-**AI engineering**
+A five-agent research pipeline that turns a question into a structured report. Separate agents plan the work, retrieve sources, extract facts, review gaps, and write the final result. Typed schemas, confidence scores, a bounded review loop, and downloadable traces keep each run clear and inspectable.
 
-![LLMs](https://img.shields.io/badge/LLMs-0E7490?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-0E7490?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-0E7490?style=flat-square)
-![Evaluation](https://img.shields.io/badge/AI_Evaluation-0E7490?style=flat-square)
-![Gradio](https://img.shields.io/badge/Gradio-0E7490?style=flat-square&logo=gradio&logoColor=F9A03C)
+[Live demo →](https://multi-agent-autoresearch.streamlit.app/) · [Source code →](https://github.com/Gourav-praneeth/autoresearch)
 
-**Product development**
+I developed AutoResearch with **Cursor** and **Claude Code**, using Python to design the agent workflow and orchestration.
 
-![React](https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-334155?style=flat-square&logo=flask&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-334155?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Git](https://img.shields.io/badge/Git-334155?style=flat-square&logo=git&logoColor=F05032)
-![Vercel](https://img.shields.io/badge/Vercel-334155?style=flat-square&logo=vercel&logoColor=white)
+## Skills
 
-## Beyond the code
+- **Primary language:** Python
+- **Languages:** Python, TypeScript, JavaScript, SQL, Java, C++
+- **Applied AI:** LLM applications, multi-agent workflows, structured outputs, retrieval, evaluation, prompt design
+- **Frameworks:** React, Next.js, Streamlit, Vite, Pydantic, Prisma
+- **Data and delivery:** SQLite, REST APIs, Docker, GitHub Actions, Vercel, Railway
+- **Testing:** pytest, Vitest, ESLint
+- **AI-assisted development:** Codex, Cursor, Claude Code
 
-- **Educator:** Mentored 700+ students in Python, C++, and mathematics across five teaching roles.
-- **Community builder:** Founded and led ASU's Board Games Club from zero to 280+ members.
-- **Continuous learner:** Completed applied AI programs from OpenAI, Hugging Face, Anthropic, and Microsoft.
+## Beyond engineering
 
-## GitHub activity
-
-<!-- Generated daily by .github/workflows/profile-summary-cards.yml. -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gourav-praneeth/Gourav-praneeth/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Gourav's GitHub contribution summary" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gourav-praneeth/Gourav-praneeth/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Repositories by language" />
-  <img src="https://raw.githubusercontent.com/Gourav-praneeth/Gourav-praneeth/main/profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub statistics" />
-</p>
+- Mentored **700+ students** in Python, C++, and mathematics across five teaching roles.
+- Founded and grew ASU's Board Games Club to **280+ members**.
+- Built accessible and human-centered projects, including a tactile campus map for visually impaired students.
 
 ---
 
 <p align="center">
-  <strong>Build with purpose. Measure what matters. Keep improving.</strong><br/>
+  <strong>Build useful software. Test it well. Keep improving.</strong><br/>
   <sub>Open to full-time opportunities and thoughtful collaborations.</sub>
 </p>
