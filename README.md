@@ -10,52 +10,52 @@
 
 ## About me
 
-I'm a software engineer and M.S. Computer Science student at Arizona State University. **Python is my strongest language.** I use it to build applied AI systems, automation, and reliable backend workflows. I also build complete web products with TypeScript and React.
+I'm a software engineer who builds applied AI systems and complete web products. **Python is my strongest language**, and I use it for agent workflows, automation, and backend engineering. I also work with TypeScript, React, and Next.js.
 
-I enjoy turning a clear problem into a simple product that people can use. My current work focuses on practical AI, education tools, and thoughtful consumer software.
+I earned my **M.S. in Computer Science from Arizona State University in May 2026** and completed my **bachelor's degree in 2025**.
 
-I'm seeking full-time **Software Engineer** and **AI Engineer** roles.
+I care about clear product decisions, reliable systems, and software that solves a real problem.
 
 ## Selected work
-
-### [Mise](https://github.com/Gourav-praneeth/mise-kitchen)
-
-**React · TypeScript · Vite · Local-first product design**
-
-A kitchen-first food management app that helps people use what they already have. Mise tracks freshness, highlights food that should be used soon, matches recipes to available ingredients, adjusts quantities by serving size, and connects cooking with a live grocery list.
-
-[Live demo →](https://misekitchen-ten.vercel.app/) · [Source code →](https://github.com/Gourav-praneeth/mise-kitchen)
-
-I used **Codex** throughout development to move quickly from product idea to a responsive working MVP.
-
-### [GradeLens](https://github.com/Gourav-praneeth/GradeLens)
-
-**Next.js · TypeScript · Prisma · SQLite · Docker · Vitest**
-
-A human-in-the-loop autograder for instructors and teaching assistants. GradeLens creates editable rubrics from official solutions, evaluates PDF or text submissions, explains every deduction, supports Canvas workflows, and exports grades for review.
-
-[Source code →](https://github.com/Gourav-praneeth/GradeLens)
-
-The application supports OpenAI, Anthropic, and Groq models, persistent deployment, instructor accounts, course rosters, and team workflows. I developed it with **Cursor** and **Claude Code**.
 
 ### [AutoResearch](https://github.com/Gourav-praneeth/autoresearch)
 
 **Python · Pydantic · Streamlit · OpenAI API · Multi-agent systems**
 
-A five-agent research pipeline that turns a question into a structured report. Separate agents plan the work, retrieve sources, extract facts, review gaps, and write the final result. Typed schemas, confidence scores, a bounded review loop, and downloadable traces keep each run clear and inspectable.
+A five-agent research pipeline that turns a question into a structured report. Separate agents plan the work, retrieve sources, extract facts, review gaps, and write the result. Typed schemas, confidence signals, a bounded review loop, and downloadable traces make each run easier to inspect.
 
 [Live demo →](https://multi-agent-autoresearch.streamlit.app/) · [Source code →](https://github.com/Gourav-praneeth/autoresearch)
 
 I developed AutoResearch with **Cursor** and **Claude Code**, using Python to design the agent workflow and orchestration.
 
+### [GradeLens](https://github.com/Gourav-praneeth/GradeLens)
+
+**Next.js · TypeScript · Prisma · PostgreSQL · Neon · Docker**
+
+A human-in-the-loop autograder for instructors and teaching assistants. GradeLens creates editable rubrics from official solutions, evaluates PDF or text submissions, explains every deduction, supports Canvas workflows, and exports grades for review.
+
+[Live demo →](https://gradelens-j97n.onrender.com/) · [Source code →](https://github.com/Gourav-praneeth/GradeLens)
+
+The application supports OpenAI, Anthropic, and Groq models, persistent deployment, instructor accounts, course rosters, and team workflows. It uses Neon PostgreSQL and S3-compatible object storage and is deployed on Render. I developed it with **Cursor** and **Claude Code**.
+
+### [Mise](https://github.com/Gourav-praneeth/misekitchen)
+
+**React · TypeScript · Vite · Supabase · PostgreSQL**
+
+A shared kitchen companion for inventory, meal planning, recipe matching, and grocery coordination. Mise supports shared households, real-time grocery updates, barcode scanning, receipt OCR, and offline recovery so daily kitchen work stays organized.
+
+[Live demo →](https://misekitchen-ten.vercel.app/) · [Source code →](https://github.com/Gourav-praneeth/misekitchen)
+
+I used **Codex** throughout development while retaining responsibility for the product, architecture, and quality decisions.
+
 ## Skills
 
 - **Primary language:** Python
 - **Languages:** Python, TypeScript, JavaScript, SQL, Java, C++
-- **Applied AI:** LLM applications, multi-agent workflows, structured outputs, retrieval, evaluation, prompt design
-- **Frameworks:** React, Next.js, Streamlit, Vite, Pydantic, Prisma
-- **Data and delivery:** SQLite, REST APIs, Docker, GitHub Actions, Vercel, Railway
-- **Testing:** pytest, Vitest, ESLint
+- **Applied AI:** LLM applications, multi-agent workflows, structured outputs, retrieval, evaluation
+- **Frameworks:** Next.js, React, Streamlit, Vite, Pydantic, Prisma
+- **Data and delivery:** PostgreSQL, Supabase, Neon, REST APIs, S3-compatible object storage, Docker, Vercel, Render
+- **Quality:** Vitest, ESLint
 - **AI-assisted development:** Codex, Cursor, Claude Code
 
 ## Beyond engineering
@@ -68,5 +68,5 @@ I developed AutoResearch with **Cursor** and **Claude Code**, using Python to de
 
 <p align="center">
   <strong>Build useful software. Test it well. Keep improving.</strong><br/>
-  <sub>Open to full-time opportunities and thoughtful collaborations.</sub>
+  <sub>Have a software, AI, or product idea? <a href="mailto:gouravprb610@gmail.com">Let's talk.</a></sub>
 </p>
