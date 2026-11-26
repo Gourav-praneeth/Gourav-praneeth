@@ -10,11 +10,9 @@
 
 ## About me
 
-I'm a software engineer who builds applied AI systems and complete web products. **Python is my strongest language**, and I use it for agent workflows, automation, and backend engineering. I also work with TypeScript, React, and Next.js.
+I'm a software engineer who builds practical AI systems and end-to-end web products. I work primarily with Python, combining agentic workflows, LLM APIs, backend development, and modern web technologies to turn complex ideas into reliable tools. I'm driven by thoughtful product decisions, strong engineering practices, and building software that creates measurable value.
 
-I earned my **M.S. in Computer Science from Arizona State University in May 2026** and completed my **bachelor's degree in 2025**.
-
-I care about clear product decisions, reliable systems, and software that solves a real problem.
+I earned my **M.S. in Computer Science from Arizona State University in May 2026** and completed my bachelor's degree in 2025.
 
 ## Selected work
 
@@ -22,7 +20,7 @@ I care about clear product decisions, reliable systems, and software that solves
 
 **Python · Pydantic · Streamlit · OpenAI API · Multi-agent systems**
 
-A five-agent research pipeline that turns a question into a structured report. Separate agents plan the work, retrieve sources, extract facts, review gaps, and write the result. Typed schemas, confidence signals, a bounded review loop, and downloadable traces make each run easier to inspect.
+A five-agent research pipeline that turns a question into a structured report. Separate agents plan the work, retrieve sources, extract facts, review gaps, and write the result. Typed schemas, confidence-aware outputs, and a review step help keep each report focused and traceable.
 
 [Live demo →](https://multi-agent-autoresearch.streamlit.app/) · [Source code →](https://github.com/Gourav-praneeth/autoresearch)
 
@@ -32,17 +30,17 @@ I developed AutoResearch with **Cursor** and **Claude Code**, using Python to de
 
 **Next.js · TypeScript · Prisma · PostgreSQL · Neon · Docker**
 
-A human-in-the-loop autograder for instructors and teaching assistants. GradeLens creates editable rubrics from official solutions, evaluates PDF or text submissions, explains every deduction, supports Canvas workflows, and exports grades for review.
+A human-in-the-loop autograder for instructors and teaching assistants. GradeLens creates editable rubrics from official solutions, evaluates PDF or text submissions, explains every deduction, supports resubmissions, and keeps instructors in control of the final grade.
 
 [Live demo →](https://gradelens-j97n.onrender.com/) · [Source code →](https://github.com/Gourav-praneeth/GradeLens)
 
-The application supports OpenAI, Anthropic, and Groq models, persistent deployment, instructor accounts, course rosters, and team workflows. It uses Neon PostgreSQL and S3-compatible object storage and is deployed on Render. I developed it with **Cursor** and **Claude Code**.
+The application supports OpenAI, Anthropic, and Groq models, persistent deployment, instructor accounts, course rosters, and team workflows. It uses Neon PostgreSQL and S3-compatible object storage and includes Docker-based delivery.
 
 ### [Mise](https://github.com/Gourav-praneeth/misekitchen)
 
 **React · TypeScript · Vite · Supabase · PostgreSQL**
 
-A shared kitchen companion for inventory, meal planning, recipe matching, and grocery coordination. Mise supports shared households, real-time grocery updates, barcode scanning, receipt OCR, and offline recovery so daily kitchen work stays organized.
+A shared kitchen companion for inventory, meal planning, recipe matching, and grocery coordination. Mise supports shared households, real-time grocery updates, barcode scanning, receipt OCR, and offline-friendly workflows.
 
 [Live demo →](https://misekitchen-ten.vercel.app/) · [Source code →](https://github.com/Gourav-praneeth/misekitchen)
 
@@ -50,12 +48,13 @@ I used **Codex** throughout development while retaining responsibility for the p
 
 ## Skills
 
-- **Primary language:** Python
 - **Languages:** Python, TypeScript, JavaScript, SQL, Java, C++
-- **Applied AI:** LLM applications, multi-agent workflows, structured outputs, retrieval, evaluation
-- **Frameworks:** Next.js, React, Streamlit, Vite, Pydantic, Prisma
-- **Data and delivery:** PostgreSQL, Supabase, Neon, REST APIs, S3-compatible object storage, Docker, Vercel, Render
-- **Quality:** Vitest, ESLint
+- **AI and machine learning:** LLM application development, prompt engineering, multi-agent workflows, RAG, embeddings, structured outputs, AI evaluation
+- **Backend:** FastAPI, REST APIs, Pydantic, authentication, server-side application logic
+- **Frontend:** React, Next.js, Streamlit, Vite
+- **Databases and storage:** PostgreSQL, Supabase, Neon, Prisma, S3-compatible object storage
+- **DevOps and cloud:** Docker, GitHub Actions, CI/CD, Vercel, Render
+- **Testing and tooling:** Vitest, pytest, ESLint, Git, Linux
 - **AI-assisted development:** Codex, Cursor, Claude Code
 
 ## Beyond engineering
