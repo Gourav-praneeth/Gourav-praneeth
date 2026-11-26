@@ -1,57 +1,71 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Gourav Bhimavarapu</h1>
-
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
-
-## 📌 About Me
-- 💡 <em>✏️ A sentence about you and what you do.</em>
-
-## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=gourav-praneeth&theme=github-dark&mode=dark" alt="gourav-praneeth's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=gourav-praneeth&theme=nightowl&hide_border=true&cache_seconds=86400" alt="gourav-praneeth's GitHub Streak" width="49%" />
+  <img src="./assets/profile-hero.svg" alt="Gourav Bhimavarapu — Software Engineer focused on Python and applied AI" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=gourav-praneeth&theme=github-dark&mode=dark" alt="Top Languages" />
+  <a href="https://gourav-praneeth.github.io"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/gouravbh/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:gouravprb610@gmail.com"><img src="https://img.shields.io/badge/Email-C2410C?style=flat-square&logo=gmail&logoColor=white" alt="Email Gourav" /></a>
 </p>
+
+## About me
+
+I'm a software engineer who builds practical AI systems and end-to-end web products. I work primarily with Python, combining agentic workflows, LLM APIs, backend development, and modern web technologies to turn complex ideas into reliable tools. I'm driven by thoughtful product decisions, strong engineering practices, and building software that creates measurable value.
+
+I earned my **M.S. in Computer Science from Arizona State University in May 2026** and completed my bachelor's degree in 2025.
+
+## Selected work
+
+### [AutoResearch](https://github.com/Gourav-praneeth/autoresearch)
+
+**Python · Pydantic · Streamlit · OpenAI API · Multi-agent systems**
+
+A five-agent research pipeline that turns a question into a structured report. Separate agents plan the work, retrieve sources, extract facts, review gaps, and write the result. Typed schemas, confidence-aware outputs, and a review step help keep each report focused and traceable.
+
+[Live demo →](https://multi-agent-autoresearch.streamlit.app/) · [Source code →](https://github.com/Gourav-praneeth/autoresearch)
+
+I developed AutoResearch with **Cursor** and **Claude Code**, using Python to design the agent workflow and orchestration.
+
+### [GradeLens](https://github.com/Gourav-praneeth/GradeLens)
+
+**Next.js · TypeScript · Prisma · PostgreSQL · Neon · Docker**
+
+A human-in-the-loop autograder for instructors and teaching assistants. GradeLens creates editable rubrics from official solutions, evaluates PDF or text submissions, explains every deduction, supports resubmissions, and keeps instructors in control of the final grade.
+
+[Live demo →](https://gradelens-j97n.onrender.com/) · [Source code →](https://github.com/Gourav-praneeth/GradeLens)
+
+The application supports OpenAI, Anthropic, and Groq models, persistent deployment, instructor accounts, course rosters, and team workflows. It uses Neon PostgreSQL and S3-compatible object storage and includes Docker-based delivery.
+
+### [Mise](https://github.com/Gourav-praneeth/misekitchen)
+
+**React · TypeScript · Vite · Supabase · PostgreSQL**
+
+A shared kitchen companion for inventory, meal planning, recipe matching, and grocery coordination. Mise supports shared households, real-time grocery updates, barcode scanning, receipt OCR, and offline-friendly workflows.
+
+[Live demo →](https://misekitchen-ten.vercel.app/) · [Source code →](https://github.com/Gourav-praneeth/misekitchen)
+
+I used **Codex** throughout development while retaining responsibility for the product, architecture, and quality decisions.
+
+## Skills
+
+- **Languages:** Python, TypeScript, JavaScript, SQL, Java, C++
+- **AI and machine learning:** LLM application development, prompt engineering, multi-agent workflows, RAG, embeddings, structured outputs, AI evaluation
+- **Backend:** FastAPI, REST APIs, Pydantic, authentication, server-side application logic
+- **Frontend:** React, Next.js, Streamlit, Vite
+- **Databases and storage:** PostgreSQL, Supabase, Neon, Prisma, S3-compatible object storage
+- **DevOps and cloud:** Docker, GitHub Actions, CI/CD, Vercel, Render
+- **Testing and tooling:** Vitest, pytest, ESLint, Git, Linux
+- **AI-assisted development:** Codex, Cursor, Claude Code
+
+## Beyond engineering
+
+- Mentored **700+ students** in Python, C++, and mathematics across five teaching roles.
+- Founded and grew ASU's Board Games Club to **280+ members**.
+- Built accessible and human-centered projects, including a tactile campus map for visually impaired students.
+
+---
+
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=gourav-praneeth&theme=github-dark&mode=dark" alt="Gourav Bhimavarapu's GitHub Trophies" />
+  <strong>Build useful software. Test it well. Keep improving.</strong><br/>
+  <sub>Have a software, AI, or product idea? <a href="mailto:gouravprb610@gmail.com">Let's talk.</a></sub>
 </p>
-<p align="center">
-  <img height="280em" src="https://www.gitskins.com/api/section/heatmap?username=gourav-praneeth&theme=github-dark&mode=dark" alt="gourav-praneeth's Activity Graph" />
-</p>
-
-## 🛠️ Languages & Tools
-
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Backend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## DevOps & Cloud
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
-
-## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=gourav-praneeth&theme=github-dark&mode=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=gourav-praneeth&theme=github-dark&mode=dark" />
-  <img alt="github-snake" src="https://www.gitskins.com/api/section/heatmap?username=gourav-praneeth&theme=github-dark&mode=dark" />
-</picture>
-
-<div align="center">
-  <!---->
-</div>
-
-<p align="center"><sub>Gourav Bhimavarapu · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
